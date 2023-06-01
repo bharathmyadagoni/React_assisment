@@ -1,0 +1,202 @@
+.serach{
+    width: 450px;
+    height: 45px;
+    border-radius: 20px;
+    margin-left: 30px;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid grey;
+    margin-left: 10%;
+}
+.home{
+    display: flex;
+    margin-top: 5px;
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+.addbutton{
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    margin-bottom: 10px;
+    margin-left: 8%; 
+    background-color: rgb(9, 196, 196);
+    border: 1px solid rgb(9, 196, 196);
+    border-radius: 10px;
+    color: aliceblue;
+}
+.welcome{
+    margin-left: 15%;
+    margin-top: 20px;
+}
+.name{
+    color: aqua;
+    font-weight: 600;
+}
+.input {
+    width: 700px;
+    padding: 10px;
+    border-radius: 30px;
+    margin-left: 120px;
+    margin-top: 20px;
+   
+  }
+  .inpu{
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid gray;
+  }
+  .start{
+    color: red;
+  }
+  .input2{
+    height: 200px;
+    border-radius: 25px;
+    border: 1px solid gray;
+  }
+  .button{
+    margin-top: 6px;
+    margin-left: 8%;
+    width: 150px;
+    height: 70px;
+    border-radius: 15px;
+    background-color: rgb(47, 215, 234);
+    color: white;
+    border: none;
+  }
+  .cancel-button{
+    width: 150px;
+    height: 70px;
+    margin-top: 6%;
+    border: 1px solid aqua;
+    background-color: white;
+    border-radius: 15px;
+  }
+  .label{
+    padding: 5px;
+  }
+  .data-container{
+   
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 8px;
+   
+  }
+  .data{
+    background-color:whitesmoke;
+    height: 160px;
+    width: 450px;
+    margin-left: 20%;
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+  }
+  .data-star{
+    background-color:rgb(62, 193, 245);
+    height: 160px;
+    width: 450px;
+    margin-left: 20%;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+  }
+  .data-delete{
+    background-color:rgb(62, 193, 245);
+    height: 160px;
+    width: 450px;
+    margin-left: 20%;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+
+  }
+  .data:hover{
+    background-color: rgb(62, 193, 245);
+    color: aliceblue;
+  }
+  .head{
+    margin-left: 18%;
+    margin-top: 10px;
+  }
+  .container-2{
+    display: flex;
+    
+  }
+  .details{
+    margin-left: 13%;
+    margin-bottom: 10%;
+    display: flex;
+   
+  }
+  ul{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .tab-item.active {
+    color: aqua;
+    border-left: 7px solid aqua;
+  }
+  
+  .tab-item.inactive {
+    color: gray;
+  }
+  .vertical-tabs {
+    display: flex;
+  }
+  
+  .tab-nav {
+    flex: 1;
+  }
+  .star-button{
+    margin-right: 4px;
+    border-radius: 4px;
+    margin-left: 3px;
+  }
+  .stars-button{
+   border-radius: 8px;
+    margin-left: 3px;
+    height: 35px;
+    width: 60px;
+  }
+  .edit-delete-btn{
+    margin-left: 120%;
+    display: flex;
+    margin-bottom: 25%;
+    
+    
+  }
+  .data-para{
+    color: aqua;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .title-date p{
+    line-height: 0.4;
+
+  }
+  .data-head{
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .data-des{
+    color: gray;
+   font-weight: 400;
+  }
+  .detele-button{
+    width:70px;
+    height: 30px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 20px;
+    border: 1px solid red;
+    margin-right: 40%;
+  }
